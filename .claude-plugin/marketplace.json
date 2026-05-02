@@ -9,8 +9,8 @@
     {
       "name": "bridle",
       "source": {
-        "source": "github",
-        "repo": "tacoda/bridle"
+        "source": "url",
+        "url": "https://github.com/tacoda/bridle.git"
       },
       "description": "Agent project harness manager for Claude Code"
     }
